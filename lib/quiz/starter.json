@@ -1,0 +1,376 @@
+[
+  {
+    "title": "A surprisingly soft landing",
+    "category": "Science",
+    "difficulty": "Warm-up",
+    "prompt": "In the 1960s, a NASA-funded project set out to make aircraft seats better at absorbing impacts. The material it produced had an unusual combination: it was soft, spread pressure across the body, and slowly recovered its shape after being compressed. It later found work in medical cushions and protective equipment. If the safety engineers did their job particularly well, your most familiar encounter with this invention might be one you slept right through.",
+    "ask": "What material connects aircraft safety research with a very comfortable bed?",
+    "answer": "Memory foam",
+    "aliases": [
+      "temper foam",
+      "viscoelastic foam"
+    ],
+    "hints": [
+      "Think of a mattress that temporarily holds the outline of a hand.",
+      "Its everyday name suggests that the material can remember something."
+    ],
+    "explanation": "The slow return to its original shape points to memory foam. Pressure distribution explains its use in seating and medical cushions, while the sleeping clue leads to mattresses. NASA commissioned the original work for aircraft safety; it was not invented specifically as an astronaut mattress. The same physical behaviour can make an impact safer and a long night more comfortable.",
+    "banter": "Finally, some scientific backing for going back to bed.",
+    "sources": [
+      {
+        "title": "NASA Spinoff: the origins of memory foam",
+        "url": "https://spinoff.nasa.gov/node/10408"
+      }
+    ]
+  },
+  {
+    "title": "A referee borrows from the road",
+    "category": "Sport",
+    "difficulty": "Warm-up",
+    "prompt": "At the 1966 World Cup, a dismissal turned into a prolonged argument: the referee and the Argentine captain did not share a language, and spectators struggled to understand the decision. Ken Aston wanted a signal that crossed language barriers. A familiar sight while travelling through London provided his solution. Four years later, officials could distinguish a warning from an order to leave without needing the player to understand a single spoken word.",
+    "ask": "Which two-part refereeing system came from this everyday visual cue?",
+    "answer": "Yellow and red cards",
+    "aliases": [
+      "red and yellow cards",
+      "yellow cards and red cards"
+    ],
+    "hints": [
+      "The inspiration regulates movement on streets, rather than on pitches.",
+      "One colour signals caution. The other tells you to stop."
+    ],
+    "explanation": "Aston borrowed the logic of traffic lights for yellow warning cards and red dismissal cards. The language problem explains why the solution needed to be visual; the road clue supplies the colours and their meanings. The system was introduced at the 1970 World Cup. Knowing a particular player or referee is unnecessary: the communication problem itself gives you the route to the answer.",
+    "banter": "If only all arguments came with internationally recognised stationery.",
+    "sources": [
+      {
+        "title": "FIFA: inspirational traffic lights",
+        "url": "https://inside.fifa.com/en/tournaments/mens/worldcup/1966england/news/1966-world-cup-gripping-tales-and-inspirational-traffic-lights-2812820"
+      }
+    ]
+  },
+  {
+    "title": "The commute that changed reading",
+    "category": "Culture",
+    "difficulty": "Connect the dots",
+    "prompt": "According to this publisher’s own history, its founder was waiting at Exeter station after visiting Agatha Christie when he could not find a satisfying book for the journey. His answer was to make good writing affordable enough for railway stalls and ordinary shops. The first books cost sixpence; their recognisable covers favoured bold blocks of colour over elaborate illustrations. The company he founded took its name from a bird that would be poorly equipped to fly home instead.",
+    "ask": "Which publishing house grew from this railway-platform frustration?",
+    "answer": "Penguin Books",
+    "aliases": [
+      "Penguin"
+    ],
+    "hints": [
+      "Think of inexpensive paperbacks with a particularly recognisable orange identity.",
+      "The bird in its logo would be much more comfortable swimming than flying."
+    ],
+    "explanation": "Penguin connected inexpensive paperbacks with a broad audience. Exeter, Christie and the sixpenny launch are the historical trail; the bird clue narrows the familiar publisher names. Orange became especially associated with its fiction. The useful leap is from a disappointing station bookstall to the idea of publishing good books cheaply, rather than assuming the founder invented a railway service.",
+    "banter": "A delayed train has rarely been this productive.",
+    "sources": [
+      {
+        "title": "Penguin: Allen Lane at Exeter station",
+        "url": "https://www.penguin.co.uk/about/company-articles/penguin-books-founder-sir-allen-lane-honoured-at-exeter-st-david"
+      }
+    ]
+  },
+  {
+    "title": "The factory pattern in your pocket",
+    "category": "The world",
+    "difficulty": "Connect the dots",
+    "prompt": "A Japanese engineering team needed to track manufactured parts with more information than an ordinary barcode could comfortably hold. Their solution stored information in two dimensions. To help a reader locate it rapidly, they placed distinctive position markers in three corners. The technical specifications were then made publicly available. A system created for factory efficiency eventually became something you might point a phone at before paying for chai or opening a restaurant menu.",
+    "ask": "What everyday technology began with this manufacturing problem?",
+    "answer": "QR code",
+    "aliases": [
+      "QR codes",
+      "quick response code"
+    ],
+    "hints": [
+      "Its black-and-white pattern can be read even when you rotate it.",
+      "Those three large corner squares are a much stronger clue than any individual tiny square."
+    ],
+    "explanation": "It is the QR code, developed by DENSO. Storing data both horizontally and vertically distinguishes it from a conventional linear barcode. The three position markers explain fast recognition and orientation, while phone payments and menus connect the factory invention to everyday life. Publicly available specifications helped it spread far beyond the manufacturing setting it was originally designed to serve.",
+    "banter": "From factory floors to asking a waiter for the Wi-Fi.",
+    "sources": [
+      {
+        "title": "DENSO WAVE: the QR development story",
+        "url": "https://www.denso-wave.com/en/technology/vol1.html"
+      }
+    ]
+  },
+  {
+    "title": "Art at pocket-money prices",
+    "category": "Culture",
+    "difficulty": "Connect the dots",
+    "prompt": "A Spanish sweets company had a problem that a gallery-famous artist was unusually well placed to solve: it needed a stronger visual identity. In 1969, Salvador Dalí sketched the basis of its new logo on a newspaper. The company’s name had already been influenced by a popular advertising jingle built around the Spanish verb for licking. This piece of commercial art is encountered wrapped around a small spherical product, normally attached to a stick.",
+    "ask": "Which confectionery brand carries this unexpected Dalí connection?",
+    "answer": "Chupa Chups",
+    "aliases": [
+      "ChupaChups"
+    ],
+    "hints": [
+      "You are looking for a lollipop brand, not a chocolate maker.",
+      "Its name repeats a sound close to the Spanish word “chupa”."
+    ],
+    "explanation": "The company was Chupa Chups. Dalí is the surprising art connection, while the jingle and Spanish language clue point towards the name. The sphere-and-stick description makes the product category deducible without requiring you to know commercial design history. The company credits Dalí with sketching the basis of the logo, so the claim is about its visual identity, not the invention of the sweet.",
+    "banter": "A little surrealism, available at the checkout.",
+    "sources": [
+      {
+        "title": "Chupa Chups: our history",
+        "url": "https://us.chupachups.com/history"
+      }
+    ]
+  },
+  {
+    "title": "A sport with two addresses",
+    "category": "Sport",
+    "difficulty": "Connect the dots",
+    "prompt": "This sport’s naming history makes a small journey from India to England. A version played by British officers was known by the name of the Indian garrison town where it became popular: Poona. In England, another place name took over, this time the Duke of Beaufort’s Gloucestershire residence. The game belongs to a much older family in which players keep a feathered projectile airborne, rather than waiting for a ball to bounce.",
+    "ask": "Which sport links an Indian city with an English country house?",
+    "answer": "Badminton",
+    "aliases": [],
+    "hints": [
+      "Poona is today called Pune. Think of a racket sport with singles and doubles.",
+      "The projectile is a shuttlecock."
+    ],
+    "explanation": "Badminton is named after Badminton House, while Poona was an earlier name associated with the game in India. The feathered projectile separates it from tennis and squash. These are clues about the development and naming of the modern sport; related battledore-and-shuttlecock games are older, so the story should not be read as one person inventing all racket-and-shuttle play at a country-house party.",
+    "banter": "Two addresses, and still nobody wants to fetch the shuttle.",
+    "sources": [
+      {
+        "title": "Canadian Olympic Committee: badminton history",
+        "url": "https://olympic.ca/wp-content/uploads/2020/03/psoc_ressource-badminton-en.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Failure, printed proudly on the can",
+    "category": "History",
+    "difficulty": "The stretch",
+    "prompt": "A company called Rocket Chemical set out to create something that would displace moisture and protect metal from corrosion. Its successful formula arrived only after repeated attempts. An early customer used it on the outer skin of Atlas missiles, but employees also saw uses for it at home. The eventual product name is effectively a tiny laboratory notebook: an abbreviation of the job it was meant to do, followed by the number of the successful formulation.",
+    "ask": "Which familiar household product wears its development history in its name?",
+    "answer": "WD-40",
+    "aliases": [
+      "WD40"
+    ],
+    "hints": [
+      "You might reach for this spray when a metal mechanism sticks or squeaks.",
+      "The letters stand for water displacement; the number is four times ten."
+    ],
+    "explanation": "WD-40 abbreviates water displacement and the fortieth formulation. The missile clue explains its original industrial setting, while corrosion protection connects it to the household can. You do not need to recognise the company or missile to solve it: identify a familiar letter-and-number product used on metal, then see whether the name fits the laboratory story. It records persistence rather than a model year.",
+    "banter": "Thirty-nine drafts. Suddenly this quiz feels very efficiently written.",
+    "sources": [
+      {
+        "title": "WD-40: our history",
+        "url": "https://wd40.asia/about-us/our-history/"
+      }
+    ]
+  },
+  {
+    "title": "A Nobel-worthy stationery cupboard",
+    "category": "Science",
+    "difficulty": "The stretch",
+    "prompt": "Two physicists took a material familiar from ordinary pencils and repeatedly peeled away layers using adhesive tape. Eventually they obtained a sheet just one atom thick. It was almost transparent yet conducted electricity remarkably well. Their experiments earned the 2010 physics Nobel Prize. The challenge is to name the resulting sheet, rather than the starting material: imagine stripping a stack of carbon layers down until there is only a single atomic page left.",
+    "ask": "What two-dimensional material did this surprisingly simple method isolate?",
+    "answer": "Graphene",
+    "aliases": [],
+    "hints": [
+      "The starting material is graphite. The answer is a single layer of it.",
+      "The word resembles “graphite”, but ends with the same three letters as “scene”."
+    ],
+    "explanation": "The single atomic sheet is graphene; the layered starting material is graphite. Pencil material supplies the chemistry clue, while repeated peeling supplies the structural one. Its unusual combination of thinness, transparency and conductivity explains the scientific interest. The important distinction is between the whole stack and one sheet: answering graphite identifies the ingredient, but not the material the experiments isolated.",
+    "banter": "The next time someone borrows your tape, ask about co-authorship.",
+    "sources": [
+      {
+        "title": "Nobel Prize: 2010 physics press release",
+        "url": "https://www.nobelprize.org/prizes/physics/2010/press-release/"
+      }
+    ]
+  },
+  {
+    "title": "A cleaner with a second childhood",
+    "category": "History",
+    "difficulty": "Warm-up",
+    "prompt": "An American company sold a soft compound that lifted soot from wallpaper. Then homes increasingly switched away from coal heating, and demand for that particular cleaning job shrank. A nursery-school teacher noticed a different possibility: children enjoyed shaping the non-toxic material. Instead of marketing it as something that removed marks from a wall, the company could sell it as something used to make small models, imaginary food and extremely ambitious snakes.",
+    "ask": "Which familiar modelling product found a new life in the playroom?",
+    "answer": "Play-Doh",
+    "aliases": [
+      "Play Doh",
+      "Playdoh"
+    ],
+    "hints": [
+      "It is softer than conventional modelling clay and often comes in little tubs.",
+      "Its name sounds like an invitation to play with dough."
+    ],
+    "explanation": "Play-Doh began as a wallpaper-cleaning compound. Cleaner home heating weakened that market, while teacher Kay Zufall recognised that the material worked well for children’s modelling. The physical property, not an entirely new scientific discovery, links the two uses: the same soft, workable material could lift dirt or hold a shape. The story is an ingenious change of audience for an existing product.",
+    "banter": "An impressive career change for something that still gets stuck in carpets.",
+    "sources": [
+      {
+        "title": "Smithsonian: the accidental invention of Play-Doh",
+        "url": "https://www.smithsonianmag.com/innovation/accidental-invention-play-doh-180973527/"
+      }
+    ]
+  },
+  {
+    "title": "A teenager cuts the code in half",
+    "category": "Culture",
+    "difficulty": "Warm-up",
+    "prompt": "A student at a Paris school encountered Charles Barbier’s system of raised-point writing. He saw its promise but found its twelve-dot arrangement too complicated. His own version used six dots arranged in two columns, making a cell small enough to explore with a fingertip. He developed it while still a teenager and later extended the system to music. The resulting code became known by his surname and made reading possible through touch.",
+    "ask": "What writing system emerged from this compact redesign?",
+    "answer": "Braille",
+    "aliases": [
+      "Louis Braille"
+    ],
+    "hints": [
+      "Look for it on lift controls and some packaging.",
+      "It is a tactile code of raised dots, rather than raised outlines of printed letters."
+    ],
+    "explanation": "Louis Braille simplified the earlier raised-point approach into the familiar six-dot cell. The fingertip clue tells you that the redesign is for touch, not just smaller printed type. The two columns and later use in music reinforce that this is a flexible writing code rather than one device. His surname became the name used for the system across many languages.",
+    "banter": "An excellent reminder that fewer moving parts can mean more possibilities.",
+    "sources": [
+      {
+        "title": "RNIB: braille through the years",
+        "url": "https://www.rnib.org.uk/living-with-sight-loss/education-and-learning/braille-tactile-codes/braille-through-the-years-past-present-and-future/"
+      }
+    ]
+  },
+  {
+    "title": "A side project makes a splash",
+    "category": "Science",
+    "difficulty": "Connect the dots",
+    "prompt": "An engineer who worked on spacecraft also experimented with an environmentally friendlier heat pump at home. During a test, he attached a high-pressure nozzle to a bathroom tap, and the powerful stream suggested an entirely different market. A prototype was a hit with his daughter and her friends. Instead of moving heat efficiently, the commercial toy used stored pressure to settle a much more urgent summer problem: how to drench someone standing several steps away.",
+    "ask": "Which toy brand grew out of Lonnie Johnson’s heat-pump experiment?",
+    "answer": "Super Soaker",
+    "aliases": [
+      "Supersoaker"
+    ],
+    "hints": [
+      "Think of a pump-powered water blaster with a separate reservoir.",
+      "Its two-word name promises an especially thorough soaking."
+    ],
+    "explanation": "The toy was the Super Soaker. The spacecraft work explains Johnson’s engineering background, but the key deduction is the change in purpose: a strong water jet moves from a heat-pump experiment into children’s play. Stored pressure differentiates the idea from a simple tiny squeeze pistol. A water gun is the right general connection; Super Soaker is the particular brand the question asks for.",
+    "banter": "Peer review is much more immediate when the peers are holding water guns.",
+    "sources": [
+      {
+        "title": "Smithsonian Lemelson Center: Lonnie Johnson",
+        "url": "https://invention.si.edu/invention-stories/meet-lonnie-johnson-man-behind-super-soaker"
+      }
+    ]
+  },
+  {
+    "title": "A publisher that sells rubber",
+    "category": "Food & language",
+    "difficulty": "Connect the dots",
+    "prompt": "In 1900, a French manufacturer gave motorists a free guide full of practical travel information. A guidebook seems an odd side business until you consider what happens when customers take more journeys: the manufacturer’s main product wears out faster. Over time, the guide’s recommendations became prestigious in their own right. A chef might now care deeply about the opinion of this company, even though its best-known mascot looks as if it has been assembled from stacked rings.",
+    "ask": "Which company connects road trips, replacement tyres and restaurant prestige?",
+    "answer": "Michelin",
+    "aliases": [
+      "Michelin Guide"
+    ],
+    "hints": [
+      "The guide awards stars, and its parent company manufactures tyres.",
+      "The white, ring-shaped mascot is often called the company’s “Man”."
+    ],
+    "explanation": "Michelin is both a tyre manufacturer and the name behind the restaurant guide. Helping people travel more made commercial sense for a motoring company, and the guide later developed a reputation independent of its original promotional role. The chef and mascot clues connect two identities that can feel unrelated. The answer is the same company, not a partnership between a publisher and a tyre maker.",
+    "banter": "The only dinner review that began with a business interest in your tyres.",
+    "sources": [
+      {
+        "title": "The MICHELIN Guide: history and purpose",
+        "url": "https://guide.michelin.com/si/en/faq-frequently-asked-questions-si"
+      }
+    ]
+  },
+  {
+    "title": "The map that ignores the miles",
+    "category": "The world",
+    "difficulty": "Connect the dots",
+    "prompt": "An electrical draughtsman approached a transport map as if he were drawing the circuit diagrams from his day job. Accurate surface distances were sacrificed so that the connections could become much clearer. The initially radical proposal was rejected, then proved popular in a trial print run. Its coloured intersecting lines became a template for other cities. For a traveller choosing where to change trains beneath the streets, the sequence of stops mattered more than the exact bends in the ground above.",
+    "ask": "Which city’s underground transport map did Harry Beck redesign?",
+    "answer": "London",
+    "aliases": [
+      "London Underground",
+      "London Tube map",
+      "Tube map"
+    ],
+    "hints": [
+      "This network is commonly nicknamed the Tube.",
+      "Its familiar warning asks passengers to mind the gap."
+    ],
+    "explanation": "Beck’s redesign was for the London Underground. His electrical background explains the diagrammatic approach: a circuit shows what connects to what, not a realistic picture of the wire’s route. That is also useful when changing trains. The underground-travel and Tube clues identify London, while the historical detail explains why the map can be excellent for a journey yet misleading about walking distances.",
+    "banter": "A map that is less geographically accurate and more useful. Bold move.",
+    "sources": [
+      {
+        "title": "Transport for London: Harry Beck’s map",
+        "url": "https://tfl.gov.uk/corporate/about-tfl/culture-and-heritage/harry-becks-tube-map"
+      }
+    ]
+  },
+  {
+    "title": "A childhood game with higher stakes",
+    "category": "Culture",
+    "difficulty": "Connect the dots",
+    "prompt": "Earlier Indian versions of this familiar game could chart a journey of spiritual progress. Squares were associated with moral or religious ideas, and connections between them let a player rise dramatically or suffer a sudden descent. British adaptations simplified those meanings into lessons about good and bad behaviour; many modern boards keep little more than the numbered race and its shortcuts. The two kinds of connector are still there, though, and one has a habit of making the leader very unhappy.",
+    "ask": "Which board game preserves these dramatic ascents and setbacks?",
+    "answer": "Snakes and ladders",
+    "aliases": [
+      "Chutes and ladders",
+      "Snakes & ladders",
+      "Saanp seedhi"
+    ],
+    "hints": [
+      "Think of a dice game in which landing on the wrong square can undo several turns.",
+      "One kind of connector is climbed; the other is a reptile."
+    ],
+    "explanation": "Snakes and ladders developed from Indian gyan chaupar traditions. Its upward and downward links once carried meanings about conduct and spiritual progress; later adaptations changed or removed much of that teaching. The visible mechanics retain the metaphor: sudden ascent and painful reversal. Chutes and Ladders is the familiar American adaptation, with slides replacing the reptiles.",
+    "banter": "Proof that life lessons are easier to remember when they ruin your lead.",
+    "sources": [
+      {
+        "title": "MAP Academy: Gyan Chaupar",
+        "url": "https://imp-art.org/articles/gyan-chaupar/"
+      }
+    ]
+  },
+  {
+    "title": "The spice that needed a helping hand",
+    "category": "Food & language",
+    "difficulty": "The stretch",
+    "prompt": "This familiar flavour begins as the fruit of an orchid, not as a white powder. Growing it commercially proved difficult because the flowers are short-lived and pollination is complicated. In 1841, an enslaved twelve-year-old named Edmond Albius developed an effective method of hand-pollination. The mature pods are processed to develop their characteristic scent. Despite all that skilled work behind the natural ingredient, its name is sometimes used as a rather unfair synonym for plain or unadventurous.",
+    "ask": "Which flavour owes much of its cultivation to this pollination technique?",
+    "answer": "Vanilla",
+    "aliases": [
+      "natural vanilla"
+    ],
+    "hints": [
+      "Think of a dark, narrow pod that a cook might split lengthways.",
+      "It is frequently contrasted with chocolate as a supposedly “plain” ice-cream flavour."
+    ],
+    "explanation": "Vanilla comes from orchid pods. The hand-pollination clue explains why the natural ingredient takes so much labour, while the split dark pod provides a kitchen connection. The final language clue points to “vanilla” meaning ordinary, an ironic description for such a demanding crop. Albius’s contribution was the practical pollination method; he did not invent the plant or its use as a flavour.",
+    "banter": "A surprisingly complicated backstory for the flavour accused of being boring.",
+    "sources": [
+      {
+        "title": "Royal Botanic Gardens, Kew: vanilla",
+        "url": "https://www.kew.org/read-and-watch/vanilla-digitisation"
+      }
+    ]
+  },
+  {
+    "title": "A bird, a beer, a book",
+    "category": "History",
+    "difficulty": "The stretch",
+    "prompt": "A hunting party in Ireland could not agree whether the golden plover was Europe’s fastest game bird. One member, a brewery executive, discovered that the available reference books did not settle the dispute. He recognised that similar arguments happened in pubs every evening. A collection of carefully checked superlatives could both solve that problem and promote the business. The resulting publication eventually became famous for achievements ranging from extraordinary human bodies to wildly inventive feats.",
+    "ask": "Which reference-book series grew out of this unresolved pub-friendly argument?",
+    "answer": "Guinness World Records",
+    "aliases": [
+      "Guinness Book of Records",
+      "Guinness Book of World Records",
+      "Guinness Records"
+    ],
+    "hints": [
+      "The brewery is Irish and particularly associated with stout.",
+      "The book’s name is now also used by an organisation that certifies record-breaking achievements."
+    ],
+    "explanation": "It was the Guinness Book of Records, now Guinness World Records. The brewery connection supplies Guinness; the argument about the fastest bird explains the focus on records and superlatives. The point is not that a beer company knew every answer, but that it saw a need for a trusted source that could settle everyday disputes. The publishing idea grew far beyond its promotional purpose.",
+    "banter": "An argument that accidentally created considerably more arguments.",
+    "sources": [
+      {
+        "title": "Guinness World Records: why the book began",
+        "url": "https://www.guinnessworldrecords.com/news/2022/9/why-was-the-guinness-world-records-book-first-published-714607"
+      }
+    ]
+  }
+]
