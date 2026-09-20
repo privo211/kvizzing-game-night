@@ -10,14 +10,14 @@ A fan-made, deduction-first general quiz: original questions, progressively stro
 - Saved games, scorecards, and server-side per-account question history. All eight questions are reserved atomically before a pack is shown; quitting does not recycle unused questions.
 - Answer/alias uniqueness plus prompt similarity checks. Future answers stay server-side. Group history belongs to the host account, not every guest.
 - Sixteen individually sourced original starter questions (two full games per account). The UI labels starter packs. Exhaustion returns a clear message rather than repeating questions.
-- Optional fresh generation through OpenRouter's `openrouter/free` router. It checks the router's live prompt and completion price before every request and has no paid-model fallback. Wikipedia evidence is retrieved before drafting; a second editorial pass checks factual support and deduction quality. Free capacity and rate limits can be unavailable, so the curated starter bank remains the safe fallback. AI review is not a guarantee of factual accuracy.
+- Optional fresh generation through OpenRouter's `nex-agi/nex-n2.5-mini:free` endpoint. It checks the model's live prompt and completion price before every request and has no paid-model fallback. Wikipedia evidence is retrieved before drafting; a second editorial pass checks factual support and deduction quality. Free capacity and rate limits can be unavailable, so the curated starter bank remains the safe fallback. AI review is not a guarantee of factual accuracy.
 
 ## Vercel setup
 
 1. Import this GitHub repo as a Next.js project on Vercel Hobby.
 2. Add **Neon, Free plan** from Vercel Marketplace and connect it to the project. Keep billing upgrades disabled. Vercel injects `DATABASE_URL`.
 3. Deploy once after connecting Neon. The production build applies the additive schema automatically and does not erase data. For a manual migration, run `vercel env pull .env.local`, then `npm run db:migrate`.
-4. Add `OPENROUTER_API_KEY` as a server-only Vercel environment variable and keep `QUIZ_AI_ENABLED=true`. The app calls only `openrouter/free`; if the free router disappears, changes price, or reaches its free quota, starter questions are used only while unseen questions remain. No OpenAI API key, paid fallback, auto top-up, or Cloudflare service is used.
+4. Add `OPENROUTER_API_KEY` as a server-only Vercel environment variable and keep `QUIZ_AI_ENABLED=true`. The app calls only `nex-agi/nex-n2.5-mini:free`; if it disappears, changes price, or reaches its free quota, starter questions are used only while unseen questions remain. No OpenAI API key, paid fallback, auto top-up, or Cloudflare service is used.
 5. Redeploy, then verify signup, game creation, resume, and a second non-overlapping game against production.
 
 Vercel is the application host. Neon is the Vercel Marketplace database provider. The app never persists production accounts to an ephemeral Vercel filesystem.
