@@ -13,7 +13,7 @@ async function execute(queries:Query[]):Promise<Result[]>{
   return results.map(r=>({results:r.rows as Record<string,unknown>[],meta:{changes:r.command==='SELECT'?0:(r.rowCount||0)},success:true}));
  }
  // Vercel functions have ephemeral filesystems. Never silently save production history locally.
- if(process.env.VERCEL||process.env.NODE_ENV==='production')throw new Error('The quiz database needs to be connected before accounts can be used.');
+ if((process.env.VERCEL||process.env.NODE_ENV==='production')&&process.env.ALLOW_LOCAL_SQLITE!=='true')throw new Error('The quiz database needs to be connected before accounts can be used.');
  if(!local){
   mkdirSync(join(process.cwd(),'.local'),{recursive:true});
   local=new DatabaseSync(join(process.cwd(),'.local/quiz.sqlite'));

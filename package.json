@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "next dev --port 5173",
-    "build": "next build",
+    "build": "node scripts/migrate-if-configured.mjs && next build",
     "start": "next start --port 5173",
     "lint": "eslint app lib db components hooks",
     "typecheck": "tsc --noEmit",
@@ -15,12 +15,10 @@
     "test:integration": "node tests/integration.mjs"
   },
   "dependencies": {
-    "@ai-sdk/gateway": "^4.0.78",
     "@base-ui/react": "^1.7.0",
     "@hookform/resolvers": "^5.7.1",
     "@neondatabase/serverless": "^1.1.0",
     "@shadcn/react": "^0.3.0",
-    "ai": "^7.0.97",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
     "cmdk": "^1.1.1",
